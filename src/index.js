@@ -17,10 +17,10 @@ app.use(express.json());
 
 // rutas
 app.use(require('./routes/index'));
-app.use('/products', require('./routes/products'));
-app.use('/products/1', require('./routes/1'));
-app.use('/products/2', require('./routes/2'));
-app.use('/products/3', require('./routes/3'));
+app.use('/months', require('./routes/months'));
+// app.use('/products/1', require('./routes/1'));
+// app.use('/products/2', require('./routes/2'));
+// app.use('/products/3', require('./routes/3'));
 
 app.listen(app.get('port'), () => {
     console.log(`Server on port ${app.get('port')}`);
