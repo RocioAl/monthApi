@@ -1,26 +1,26 @@
 [
     {
         "month": "Dic 2020",
-        "Shot conceded": 28
+        "value": 28
     },
     {
         "month": "Ene 2021",
-        "Shot conceded": 22
+        "value": 22
     },
     {
         "month": "Feb 2021",
-        "Shot conceded": 15
+        "value": 15
     },
     {
         "month": "Mar 2021",
-        "Shot conceded": 5
+        "value": 5
     },
     {
         "month": "Abr 2021",
-        "Shot conceded": 10
+        "value": 10
     },
     {
         "month": "May 2021",
-        "Shot conceded": 20
+        "value": 20
     }
 ]
